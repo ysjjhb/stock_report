@@ -66,3 +66,4 @@ data["MACD_oscillator"]=data.apply(lambda x:(x["MACD"]-x["MACD_signal"]), axis=1
 # 폴더 먼저 생성할 것 'stock_data'
 data.to_csv("../stock_data/stock_month.csv", sep=",", index=False)
 
+# 변경
