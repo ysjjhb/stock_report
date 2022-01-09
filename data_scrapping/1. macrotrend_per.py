@@ -1,3 +1,4 @@
+## 기본 통계 ## 
 # macrotrends data 가져오기
 # 참고 링크
 # https://pypi.org/project/finpie/#A41
